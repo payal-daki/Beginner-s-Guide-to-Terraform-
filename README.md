@@ -1,5 +1,4 @@
 # demo-terraform
-#create ec2 instance using terraform.
 #To create an EC2 instance using Terraform, follow these steps:
 
 1. **Initialize Terraform in Your Project:**
