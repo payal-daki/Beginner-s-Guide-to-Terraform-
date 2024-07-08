@@ -2,7 +2,7 @@
 
 # Welcome to  Interactive Terraform Project!
 
-👋 Hi there! Welcome to our Terraform project repository. Whether you're new to Terraform or a seasoned pro, you're in the right place to explore and deploy infrastructure as code (IaC).
+👋 Hi there! Welcome to Terraform project repository. Whether you're new to Terraform or a seasoned pro, you're in the right place to explore and deploy infrastructure as code (IaC).
 
 ## Getting Started
 
@@ -41,6 +41,5 @@ To get started with this project, follow these steps:
 
 - **Modular Structure**: Our project is organized into reusable modules (`modules/ec2-instance`) for easy scalability.
 - **Secure Configuration**: Utilize `terraform.tfrs` for sensitive data like credentials without exposing them in version control.
-- **Interactive Documentation**: Check out our [Wiki](https://github.com/your-username/terraform-project/wiki) for detailed guides and best practices.
 
 
