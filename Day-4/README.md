@@ -1,4 +1,3 @@
-Certainly! Here's the same README.md content made interactive with emojis:
 
 # Terraform State Management and Remote Backend 🌍
 
