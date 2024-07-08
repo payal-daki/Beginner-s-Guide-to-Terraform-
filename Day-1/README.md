@@ -76,5 +76,5 @@ Feel free to interact with the steps above directly in your terminal or integrat
 Adjust the configuration (`ami`, `instance_type`, `subnet_id`, etc.) according to your specific requirements and AWS environment.
 
 Happy Terraforming! 🚀
-```
+
 
