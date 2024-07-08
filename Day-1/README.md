@@ -1,4 +1,3 @@
-Certainly! Here's an interactive and engaging `README.md` file for a GitHub repository named `demo-terraform`, focusing on creating an EC2 instance using Terraform:
 
 ```markdown
 # demo-terraform
