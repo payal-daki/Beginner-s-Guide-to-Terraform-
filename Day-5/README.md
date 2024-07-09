@@ -13,7 +13,7 @@ Follow these steps to execute the practical demo:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/example/repository.git
+   git clone https://github.com/payal-daki/demo-terraform/repository.git
    cd repository
    ```
 
