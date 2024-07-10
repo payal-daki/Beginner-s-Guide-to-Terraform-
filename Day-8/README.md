@@ -40,11 +40,11 @@ This scenario covers how to detect and manage drift in Terraform-managed infrast
 - **Considerations:** Discuss pros and cons of each method and future deprecation concerns.
 
 ### Example
-```hcl
+hcl
 // Example setup for audit logging and drift detection in Terraform
-```
+
 
 ## Conclusion
 
 These scenarios illustrate key concepts in managing infrastructure with Terraform, emphasizing import strategies and drift detection techniques. Practice these scenarios to enhance your Terraform proficiency and prepare for real-world deployment challenges.
-```
+
