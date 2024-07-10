@@ -39,10 +39,6 @@ This scenario covers how to detect and manage drift in Terraform-managed infrast
   2. **Setting up Audit Logs:** Configure audit logs and use automation (like Lambda functions) to monitor and alert on manual changes.
 - **Considerations:** Discuss pros and cons of each method and future deprecation concerns.
 
-### Example
-hcl
-// Example setup for audit logging and drift detection in Terraform
-
 
 ## Conclusion
 
